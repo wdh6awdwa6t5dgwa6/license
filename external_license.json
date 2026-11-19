@@ -1,23 +1,2 @@
 {
-  "ROBRUN-0236619941": {
-    "blacklist": false,
-    "createdAt": "2026-11-19T21:35:18.743Z",
-    "createdBy": {
-      "id": "1482812424955363430"
-    },
-    "creator": "1482812424955363430",
-    "days": 365,
-    "expiresAt": "2027-11-19T21:35:18.743Z",
-    "game": "ROBRUN",
-    "guildId": "1562503764043239464",
-    "hwid": "",
-    "id": "ROBRUN-0236619941",
-    "key": "ROBRUN-0236619941",
-    "note": null,
-    "paused": null,
-    "redeemedAt": "2026-11-19T21:35:55.3237897Z",
-    "revokedAt": null,
-    "used": true,
-    "user": "Cosmin1337"
-  }
 }
