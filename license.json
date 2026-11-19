@@ -1,20 +1,56 @@
 {
-  "version": 1,
+  "ROBRUN-5915539924": {
+    "createdAt": "2026-11-19T21:48:26.148Z",
+    "createdBy": {
+      "id": "1482812424955363430"
+    },
+    "days": 3650,
+    "expiresAt": "2036-11-16T21:48:26.148Z",
+    "game": "ROBRUN",
+    "guildId": "1562503764043239464",
+    "key": "ROBRUN-5915539924",
+    "note": null,
+    "redeemedAt": "2026-11-19T21:48:34.2144904Z",
+    "revokedAt": null,
+    "used": true,
+    "user": "Cosmin1337"
+  },
+  "legacyLocalMigrationAt": "2026-11-19T20:31:54.959Z",
   "licenses": {
     "ROBRUN-5915539924": {
-      "key": "ROBRUN-5915539924",
-      "game": "ROBRUN",
-      "days": 3650,
       "createdAt": "2026-11-19T21:48:26.148Z",
-      "expiresAt": "2036-11-16T21:48:26.148Z",
       "createdBy": {
         "id": "1482812424955363430"
       },
+      "days": 3650,
+      "expiresAt": "2036-11-16T21:48:26.148Z",
+      "game": "ROBRUN",
       "guildId": "1562503764043239464",
+      "key": "ROBRUN-5915539924",
+      "note": null,
+      "redeemedAt": "2026-11-19T21:48:34.2144904Z",
       "revokedAt": null,
-      "redeemedAt": null,
-      "note": null
-    }
+      "used": true,
+      "user": "Cosmin1337"
+    },
+    "legacyLocalMigrationAt": "2026-11-19T20:31:54.959Z",
+    "licenses": {
+      "ROBRUN-5915539924": {
+        "key": "ROBRUN-5915539924",
+        "game": "ROBRUN",
+        "days": 3650,
+        "createdAt": "2026-11-19T21:48:26.148Z",
+        "expiresAt": "2036-11-16T21:48:26.148Z",
+        "createdBy": {
+          "id": "1482812424955363430"
+        },
+        "guildId": "1562503764043239464",
+        "revokedAt": null,
+        "redeemedAt": null,
+        "note": null
+      }
+    },
+    "version": 1
   },
-  "legacyLocalMigrationAt": "2026-11-19T20:31:54.959Z"
+  "version": 1
 }
