@@ -1,5 +1,5 @@
 {
-  "legacyLocalMigrationAt": "2026-11-19T20:31:54.959Z",
+  "version": 1,
   "licenses": {
     "ROBRUN-7957838799": {
       "createdAt": "2026-11-19T22:45:34.209Z",
@@ -13,10 +13,13 @@
       "key": "ROBRUN-7957838799",
       "note": null,
       "redeemedAt": "2026-11-19T22:45:38.8309787Z",
-      "revokedAt": null,
+      "revokedAt": "2026-11-19T22:49:53.438Z",
       "used": true,
-      "user": "Cosmin1337"
+      "user": "Cosmin1337",
+      "revokedBy": {
+        "id": "1482812424955363430"
+      }
     }
   },
-  "version": 1
+  "legacyLocalMigrationAt": "2026-11-19T20:31:54.959Z"
 }
