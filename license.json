@@ -1,35 +1,5 @@
 {
-  "ROBRUN-5915539924": {
-    "key": "ROBRUN-5915539924",
-    "game": "ROBRUN",
-    "days": 3650,
-    "createdAt": "2026-11-19T21:48:26.148Z",
-    "expiresAt": "2036-11-16T21:48:26.148Z",
-    "createdBy": {
-      "id": "1482812424955363430"
-    },
-    "guildId": "1562503764043239464",
-    "revokedAt": null,
-    "redeemedAt": null,
-    "note": null
-  },
-  "ROBRUN-7094578115": {
-    "createdAt": "2026-11-19T21:50:38.227Z",
-    "createdBy": {
-      "id": "1482812424955363430"
-    },
-    "days": 7,
-    "expiresAt": "2026-11-26T21:50:38.227Z",
-    "game": "ROBRUN",
-    "guildId": "1562503764043239464",
-    "key": "ROBRUN-7094578115",
-    "note": null,
-    "redeemedAt": "2026-11-19T21:50:43.4038826Z",
-    "revokedAt": null,
-    "used": true,
-    "user": "Cosmin1337"
-  },
-  "legacyLocalMigrationAt": "2026-11-19T20:31:54.959Z",
+  "version": 1,
   "licenses": {
     "ROBRUN-5915539924": {
       "key": "ROBRUN-5915539924",
@@ -61,38 +31,20 @@
       "used": true,
       "user": "Cosmin1337"
     },
-    "legacyLocalMigrationAt": "2026-11-19T20:31:54.959Z",
-    "licenses": {
-      "ROBRUN-5915539924": {
-        "key": "ROBRUN-5915539924",
-        "game": "ROBRUN",
-        "days": 3650,
-        "createdAt": "2026-11-19T21:48:26.148Z",
-        "expiresAt": "2036-11-16T21:48:26.148Z",
-        "createdBy": {
-          "id": "1482812424955363430"
-        },
-        "guildId": "1562503764043239464",
-        "revokedAt": null,
-        "redeemedAt": null,
-        "note": null
+    "ROBRUN-1305448206": {
+      "key": "ROBRUN-1305448206",
+      "game": "ROBRUN",
+      "days": 7,
+      "createdAt": "2026-11-19T22:17:28.213Z",
+      "expiresAt": "2026-11-26T22:17:28.213Z",
+      "createdBy": {
+        "id": "1482812424955363430"
       },
-      "ROBRUN-7094578115": {
-        "key": "ROBRUN-7094578115",
-        "game": "ROBRUN",
-        "days": 7,
-        "createdAt": "2026-11-19T21:50:38.227Z",
-        "expiresAt": "2026-11-26T21:50:38.227Z",
-        "createdBy": {
-          "id": "1482812424955363430"
-        },
-        "guildId": "1562503764043239464",
-        "revokedAt": null,
-        "redeemedAt": null,
-        "note": null
-      }
-    },
-    "version": 1
+      "guildId": "1562503764043239464",
+      "revokedAt": null,
+      "redeemedAt": null,
+      "note": null
+    }
   },
-  "version": 1
+  "legacyLocalMigrationAt": "2026-11-19T20:31:54.959Z"
 }
