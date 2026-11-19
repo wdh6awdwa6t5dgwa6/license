@@ -1,5 +1,20 @@
 {
   "version": 1,
-  "licenses": {},
+  "licenses": {
+    "ROBRUN-1980835348": {
+      "key": "ROBRUN-1980835348",
+      "game": "ROBRUN",
+      "days": 3650,
+      "createdAt": "2026-11-19T22:43:25.749Z",
+      "expiresAt": "2036-11-16T22:43:25.749Z",
+      "createdBy": {
+        "id": "1482812424955363430"
+      },
+      "guildId": "1562503764043239464",
+      "revokedAt": null,
+      "redeemedAt": null,
+      "note": null
+    }
+  },
   "legacyLocalMigrationAt": "2026-11-19T20:31:54.959Z"
 }
