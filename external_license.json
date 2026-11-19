@@ -1,1 +1,23 @@
-{}
+{
+  "ROBRUN-0236619941": {
+    "key": "ROBRUN-0236619941",
+    "game": "ROBRUN",
+    "days": 365,
+    "createdAt": "2026-11-19T21:35:18.743Z",
+    "expiresAt": "2027-11-19T21:35:18.743Z",
+    "createdBy": {
+      "id": "1482812424955363430"
+    },
+    "guildId": "1562503764043239464",
+    "revokedAt": null,
+    "redeemedAt": null,
+    "note": null,
+    "id": "ROBRUN-0236619941",
+    "used": false,
+    "hwid": "",
+    "blacklist": false,
+    "creator": "1482812424955363430",
+    "user": "",
+    "paused": null
+  }
+}
