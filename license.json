@@ -41,9 +41,12 @@
         "id": "1482812424955363430"
       },
       "guildId": "1562503764043239464",
-      "revokedAt": null,
+      "revokedAt": "2026-11-19T22:17:32.837Z",
       "redeemedAt": null,
-      "note": null
+      "note": null,
+      "revokedBy": {
+        "id": "1482812424955363430"
+      }
     }
   },
   "legacyLocalMigrationAt": "2026-11-19T20:31:54.959Z"
