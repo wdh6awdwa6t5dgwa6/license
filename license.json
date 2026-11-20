@@ -8,8 +8,9 @@
     "id": "ROBRUN-5567407266",
     "password": "",
     "paused": false,
-    "used": false,
-    "user": "",
+    "redeemedAt": "2026-11-20T12:21:13.9847836Z",
+    "used": true,
+    "user": "Cosmin1337",
     "username": ""
   }
 }
