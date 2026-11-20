@@ -12,6 +12,19 @@
     "user": "Neger1",
     "username": "Neger1"
   },
+  "ROBRUN-4962944620": {
+    "blacklist": false,
+    "createdAt": "2026-11-20T23:09:35.697Z",
+    "creator": "82345324",
+    "expiresAt": "2026-11-27T23:09:35.697Z",
+    "hwid": null,
+    "id": "ROBRUN-4962944620",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "paragon": {
     "blacklist": false,
     "createdAt": "2026-07-05T16:17:42.033Z",
