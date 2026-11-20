@@ -1,1 +1,15 @@
-{}
+{
+  "ROBRUN-5567407266": {
+    "blacklist": false,
+    "createdAt": "2026-11-20T12:20:56.481Z",
+    "creator": "82345324",
+    "expiresAt": "2027-11-20T12:20:56.481Z",
+    "hwid": null,
+    "id": "ROBRUN-5567407266",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  }
+}
