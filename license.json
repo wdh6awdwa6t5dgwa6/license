@@ -1,4 +1,17 @@
 {
+  "ROBRUN-5939553293": {
+    "blacklist": false,
+    "createdAt": "2026-11-20T12:15:29.955Z",
+    "creator": "integration-test",
+    "expiresAt": "2026-11-21T12:15:29.955Z",
+    "hwid": null,
+    "id": "ROBRUN-5939553293",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-8319487117": {
     "blacklist": false,
     "createdAt": "2026-11-20T12:02:56.888Z",
