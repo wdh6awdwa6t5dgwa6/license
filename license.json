@@ -90,6 +90,19 @@
     "user": "zeedwyd",
     "username": "zeedwyd"
   },
+  "ROBRUN-3967719425": {
+    "blacklist": false,
+    "createdAt": "2026-11-20T23:00:21.439Z",
+    "creator": "82345324",
+    "expiresAt": "2026-11-27T23:00:21.439Z",
+    "hwid": null,
+    "id": "ROBRUN-3967719425",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-6289992307": {
     "blacklist": false,
     "createdAt": "2026-11-20T22:35:52.058Z",
