@@ -89,57 +89,5 @@
     "used": true,
     "user": "zeedwyd",
     "username": "zeedwyd"
-  },
-  "ROBRUN-123": {
-    "blacklist": false,
-    "createdAt": "2026-07-05T16:17:42.033Z",
-    "creator": "",
-    "expiresAt": "2056-07-02T16:17:42.033Z",
-    "hwid": "b0623",
-    "id": "ROBRUN-123",
-    "password": "ROTIBOSSROBRUN",
-    "paused": false,
-    "used": true,
-    "user": "ROTI",
-    "username": "ROTI"
-  },
-  "ROBRUN-12345": {
-    "blacklist": false,
-    "createdAt": "2026-07-05T16:17:42.033Z",
-    "creator": "",
-    "expiresAt": "2036-07-02T16:17:42.033Z",
-    "hwid": "8cee4",
-    "id": "ROBRUN-12345",
-    "password": "Parola12#",
-    "paused": false,
-    "used": true,
-    "user": "BRATAN",
-    "username": "BRATAN"
-  },
-  "ROBRUN-54321": {
-    "blacklist": false,
-    "createdAt": "2026-07-05T16:17:42.033Z",
-    "creator": "",
-    "expiresAt": "2036-07-02T16:17:42.033Z",
-    "hwid": "80ea9",
-    "id": "ROBRUN-54321",
-    "password": "sefu",
-    "paused": false,
-    "used": true,
-    "user": "Robica",
-    "username": "Robica"
-  },
-  "ROBRUN-9720134268": {
-    "blacklist": false,
-    "createdAt": "2026-11-20T12:27:53.888Z",
-    "creator": "82345324",
-    "expiresAt": "2027-11-20T12:27:53.888Z",
-    "hwid": null,
-    "id": "ROBRUN-9720134268",
-    "password": "",
-    "paused": false,
-    "used": false,
-    "user": "Cosmin1337",
-    "username": ""
   }
 }
