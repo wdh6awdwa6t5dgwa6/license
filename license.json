@@ -116,6 +116,19 @@
     "user": "BRATAN",
     "username": "BRATAN"
   },
+  "ROBRUN-1348486563": {
+    "blacklist": false,
+    "createdAt": "2026-11-20T22:30:59.000Z",
+    "creator": "82345324",
+    "expiresAt": "2027-11-20T22:30:59.000Z",
+    "hwid": null,
+    "id": "ROBRUN-1348486563",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-54321": {
     "blacklist": false,
     "createdAt": "2026-07-05T16:17:42.033Z",
