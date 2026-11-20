@@ -89,31 +89,5 @@
     "used": true,
     "user": "zeedwyd",
     "username": "zeedwyd"
-  },
-  "ROBRUN-2827401244": {
-    "blacklist": false,
-    "createdAt": "2026-11-20T23:00:49.892Z",
-    "creator": "82345324",
-    "expiresAt": "2026-11-27T23:00:49.892Z",
-    "hwid": null,
-    "id": "ROBRUN-2827401244",
-    "password": "",
-    "paused": false,
-    "used": false,
-    "user": "",
-    "username": ""
-  },
-  "ROBRUN-6289992307": {
-    "blacklist": false,
-    "createdAt": "2026-11-20T22:35:52.058Z",
-    "creator": "82345324",
-    "expiresAt": "2026-11-27T22:35:52.058Z",
-    "hwid": null,
-    "id": "ROBRUN-6289992307",
-    "password": "",
-    "paused": false,
-    "used": false,
-    "user": "",
-    "username": ""
   }
 }
