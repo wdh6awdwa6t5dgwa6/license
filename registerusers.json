@@ -13,5 +13,12 @@
     "createdAt": "2026-11-19T22:52:32.4418027+02:00",
     "firstLogin": true,
     "discordLinked": false
+  },
+  "Robica1": {
+    "username": "Robica1",
+    "password": "c2VmdQ==",
+    "createdAt": "2026-11-20T13:32:09.6238904+02:00",
+    "firstLogin": true,
+    "discordLinked": false
   }
 }
