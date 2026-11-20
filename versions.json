@@ -1,0 +1,16 @@
+{
+    "record": {
+        "usermode-ver": ["1.3.0.9"],
+        "kernel-ver": ["2.5.8.1"],
+        "launcher-ver": ["1.0.0.0"],
+        "status": "undetected",
+        "news-type": 0,
+        "news": "Added seed triggerbot"
+    },
+    "metadata": {
+        "id": "690e4759ae596e708f4b20b3",
+        "private": false,
+        "createdAt": "2025-11-07T19:24:09.318Z",
+        "name": "Paragon Systems"
+    }
+}
