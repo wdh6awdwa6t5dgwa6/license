@@ -51,17 +51,4 @@
     "user": "ECLER",
     "username": "ECLER"
   },
-  "ROBRUN-8296748378": {
-    "blacklist": false,
-    "createdAt": "2026-11-21T03:20:45.127Z",
-    "creator": "82345324",
-    "expiresAt": "2026-11-24T03:20:45.127Z",
-    "hwid": null
-    "id": "ROBRUN-8296748378",
-    "password": "Dariusqw1234$",
-    "paused": false,
-    "used": true,
-    "user": "Bunny",
-    "username": "Bunny"
-  }
 }
