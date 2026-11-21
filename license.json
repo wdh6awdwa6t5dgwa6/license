@@ -11,18 +11,5 @@
     "used": true,
     "user": "Robica",
     "username": "Robica"
-  },
-  "ROBRUN-2012332169": {
-    "blacklist": false,
-    "createdAt": "2026-11-21T00:21:38.648Z",
-    "creator": "82345324",
-    "expiresAt": "2026-12-22T00:21:38.648Z",
-    "hwid": "80ea9",
-    "id": "ROBRUN-2012332169",
-    "password": "sefu",
-    "paused": false,
-    "used": true,
-    "user": "Cosmin1337",
-    "username": "Cosmin1337"
   }
 }
