@@ -77,6 +77,19 @@
     "user": "Cosmin1337",
     "username": ""
   },
+  "ROBRUN-7022833632": {
+    "blacklist": false,
+    "createdAt": "2026-11-23T00:50:29.322Z",
+    "creator": "82345324",
+    "expiresAt": "2026-11-24T00:50:29.322Z",
+    "hwid": null,
+    "id": "ROBRUN-7022833632",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-8262200106": {
     "blacklist": false,
     "createdAt": "2026-11-21T01:22:54.461Z",
