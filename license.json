@@ -82,13 +82,13 @@
     "createdAt": "2026-11-23T00:50:29.322Z",
     "creator": "82345324",
     "expiresAt": "2026-11-24T00:50:29.322Z",
-    "hwid": null,
+    "hwid": "1cee6",
     "id": "ROBRUN-7022833632",
-    "password": "",
+    "password": "eric.20111",
     "paused": false,
-    "used": false,
-    "user": "",
-    "username": ""
+    "used": true,
+    "user": "eric",
+    "username": "eric"
   },
   "ROBRUN-8262200106": {
     "blacklist": false,
