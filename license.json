@@ -78,7 +78,7 @@
     "username": "Andrew"
   },
   "ROBRUN-4159934720": {
-    "blacklist": false,
+    "blacklist": true,
     "createdAt": "2026-11-21T00:25:45.260Z",
     "creator": "82345324",
     "expiresAt": "2036-11-18T00:25:45.260Z",
