@@ -129,6 +129,19 @@
     "user": "eric",
     "username": "eric"
   },
+  "ROBRUN-7402667989": {
+    "blacklist": false,
+    "createdAt": "2026-11-23T20:12:39.816Z",
+    "creator": "82345324",
+    "expiresAt": "2026-12-24T20:12:39.816Z",
+    "hwid": null,
+    "id": "ROBRUN-7402667989",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-8262200106": {
     "blacklist": false,
     "createdAt": "2026-11-21T01:22:54.461Z",
