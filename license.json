@@ -115,5 +115,18 @@
     "used": true,
     "user": "ECLER",
     "username": "ECLER"
+  },
+  "ROBRUN-9028114406": {
+    "blacklist": false,
+    "createdAt": "2026-11-24T19:19:16.329Z",
+    "creator": "82345324",
+    "expiresAt": "2026-12-01T19:19:16.329Z",
+    "hwid": null,
+    "id": "ROBRUN-9028114406",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
   }
 }
