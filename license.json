@@ -104,7 +104,9 @@
     "username": "eric"
   },
   "ROBRUN-8262200106": {
-    "blacklist": false,
+    "bannedDate": 1795625364,
+    "bannedReason": "Anti-crack protection triggered",
+    "blacklist": true,
     "createdAt": "2026-11-21T01:22:54.461Z",
     "creator": "82345324",
     "expiresAt": "2026-12-22T01:22:54.461Z",
