@@ -65,7 +65,9 @@
     "username": "admin"
   },
   "ROBRUN-5908341566": {
-    "blacklist": false,
+    "bannedDate": 1795639675,
+    "bannedReason": "Anti-crack protection triggered",
+    "blacklist": true,
     "createdAt": "2026-11-21T01:07:50.553Z",
     "creator": "82345324",
     "expiresAt": "2026-11-27T01:07:50.553Z",
