@@ -103,6 +103,19 @@
     "user": "robica_sefu",
     "username": "admin"
   },
+  "ROBRUN-4322687037": {
+    "blacklist": false,
+    "createdAt": "2026-11-27T21:10:36.824Z",
+    "creator": "82345324",
+    "expiresAt": "2026-12-28T21:10:36.824Z",
+    "hwid": null,
+    "id": "ROBRUN-4322687037",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-5388682390": {
     "blacklist": false,
     "createdAt": "2026-11-27T16:56:42.075Z",
