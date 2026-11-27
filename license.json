@@ -142,6 +142,19 @@
     "user": "",
     "username": ""
   },
+  "ROBRUN-5981701271": {
+    "blacklist": false,
+    "createdAt": "2026-11-27T21:45:32.039Z",
+    "creator": "82345324",
+    "expiresAt": "2026-12-28T21:45:32.039Z",
+    "hwid": null,
+    "id": "ROBRUN-5981701271",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-6043624202": {
     "blacklist": false,
     "createdAt": "2026-11-21T19:35:11.724Z",
