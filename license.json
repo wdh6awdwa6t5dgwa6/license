@@ -116,19 +116,6 @@
     "user": "",
     "username": ""
   },
-  "ROBRUN-5908341566": {
-    "blacklist": false,
-    "createdAt": "2026-11-21T01:07:50.553Z",
-    "creator": "82345324",
-    "expiresAt": "2026-11-27T01:07:50.553Z",
-    "hwid": "8cee4",
-    "id": "ROBRUN-5908341566",
-    "password": "123456789",
-    "paused": false,
-    "used": true,
-    "user": "bratuxq.1",
-    "username": "bratuxq.1"
-  },
   "ROBRUN-6043624202": {
     "blacklist": false,
     "createdAt": "2026-11-21T19:35:11.724Z",
