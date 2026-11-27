@@ -155,6 +155,19 @@
     "user": "zzanee07",
     "username": "dragos2981"
   },
+  "ROBRUN-7774772524": {
+    "blacklist": false,
+    "createdAt": "2026-11-27T20:49:13.878Z",
+    "creator": "82345324",
+    "expiresAt": "2026-11-30T20:49:13.878Z",
+    "hwid": null,
+    "id": "ROBRUN-7774772524",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-8262200106": {
     "blacklist": false,
     "createdAt": "2026-11-21T01:22:54.461Z",
