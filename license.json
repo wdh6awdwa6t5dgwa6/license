@@ -246,7 +246,7 @@
     "id": "ROBRUN-4159934720",
     "password": "sefu",
     "paused": false,
-    "spoofer": false,
+    "spoofer": true,
     "used": true,
     "user": "robica_sefu",
     "username": "admin"
