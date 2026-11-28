@@ -108,11 +108,11 @@
     "createdAt": "2026-11-28T17:03:03.421Z",
     "creator": "robica_sefu",
     "expiresAt": "2026-11-29T17:03:03.421Z",
-    "hwid": null,
+    "hwid": "AAD2F331AB805CFE73BBF3A81947D3F7",
     "id": "ROBRUN-1894020694",
     "password": "12345razvanN.",
     "paused": false,
-    "used": false,
+    "used": true,
     "user": "razwan4",
     "username": "razvan2"
   },
