@@ -181,6 +181,19 @@
     "user": "davidsteroizi",
     "username": "david amparat"
   },
+  "ROBRUN-3544202814": {
+    "blacklist": false,
+    "createdAt": "2026-11-28T12:58:11.687Z",
+    "creator": "robica_sefu",
+    "expiresAt": "2026-12-05T12:58:11.687Z",
+    "hwid": null,
+    "id": "ROBRUN-3544202814",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-3896274052": {
     "blacklist": false,
     "createdAt": "2026-11-26T17:23:14.148Z",
