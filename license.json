@@ -1,4 +1,17 @@
 {
+  "ROBRUN-0457010037": {
+    "blacklist": false,
+    "createdAt": "2026-11-28T00:51:55.277Z",
+    "creator": "robica_sefu",
+    "expiresAt": "2026-12-05T00:51:55.277Z",
+    "hwid": null,
+    "id": "ROBRUN-0457010037",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-0653969306": {
     "blacklist": false,
     "createdAt": "2026-11-21T03:54:06.773Z",
