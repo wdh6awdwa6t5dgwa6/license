@@ -363,19 +363,6 @@
     "user": "Shobbyx",
     "username": "Shobbyx"
   },
-  "ROBRUN-8037986196": {
-    "blacklist": false,
-    "createdAt": "2026-11-28T00:07:51.135Z",
-    "creator": "82345324",
-    "expiresAt": "2026-12-05T00:07:51.135Z",
-    "hwid": null,
-    "id": "ROBRUN-8037986196",
-    "password": "",
-    "paused": false,
-    "used": false,
-    "user": "",
-    "username": ""
-  },
   "ROBRUN-8245323939": {
     "blacklist": false,
     "createdAt": "2026-11-27T23:09:19.084Z",
