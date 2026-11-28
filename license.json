@@ -220,6 +220,19 @@
     "user": "Afgannn69",
     "username": "Afgannn69"
   },
+  "ROBRUN-5018796717": {
+    "blacklist": false,
+    "createdAt": "2026-11-28T11:52:53.032Z",
+    "creator": "82345324",
+    "expiresAt": "2026-12-29T11:52:53.032Z",
+    "hwid": null,
+    "id": "ROBRUN-5018796717",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-5388682390": {
     "blacklist": false,
     "createdAt": "2026-11-27T16:56:42.075Z",
