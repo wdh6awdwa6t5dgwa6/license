@@ -116,19 +116,6 @@
     "user": "fane_manevra",
     "username": "fane a lu box"
   },
-  "ROBRUN-2330438255": {
-    "blacklist": false,
-    "createdAt": "2026-11-27T21:43:52.431Z",
-    "creator": "82345324",
-    "expiresAt": "2026-11-29T21:43:52.431Z",
-    "hwid": null,
-    "id": "ROBRUN-2330438255",
-    "password": "",
-    "paused": false,
-    "used": false,
-    "user": "",
-    "username": ""
-  },
   "ROBRUN-3155165463": {
     "blacklist": false,
     "createdAt": "2026-11-21T02:49:03.886Z",
