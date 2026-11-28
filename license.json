@@ -77,6 +77,19 @@
     "user": "",
     "username": ""
   },
+  "ROBRUN-1963183295": {
+    "blacklist": false,
+    "createdAt": "2026-11-28T11:03:16.397Z",
+    "creator": "robica_sefu",
+    "expiresAt": "2026-12-05T11:03:16.397Z",
+    "hwid": null,
+    "id": "ROBRUN-1963183295",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-2330438255": {
     "blacklist": false,
     "createdAt": "2026-11-27T21:43:52.431Z",
