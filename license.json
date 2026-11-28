@@ -199,11 +199,11 @@
     "createdAt": "2026-11-21T00:25:45.260Z",
     "creator": "82345324",
     "expiresAt": "2374-01-06T00:25:45.260Z",
-    "hwid": null,
+    "hwid": "3356F74213AD3286DCF9DFF9D36AF6C4",
     "id": "ROBRUN-4159934720",
     "password": "sefu",
     "paused": false,
-    "used": false,
+    "used": true,
     "user": "robica_sefu",
     "username": "admin"
   },
