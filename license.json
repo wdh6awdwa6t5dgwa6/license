@@ -290,11 +290,11 @@
     "createdAt": "2026-11-28T00:07:41.738Z",
     "creator": "robica_sefu",
     "expiresAt": "2026-12-01T00:07:41.738Z",
-    "hwid": "a0ea2",
+    "hwid": null,
     "id": "ROBRUN-6505675297",
     "password": "SilViu77",
     "paused": false,
-    "used": true,
+    "used": false,
     "user": "razwan4",
     "username": "gs"
   },
