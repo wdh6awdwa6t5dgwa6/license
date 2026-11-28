@@ -82,11 +82,11 @@
     "createdAt": "2026-11-27T22:17:52.761Z",
     "creator": "robica_sefu",
     "expiresAt": "2026-12-04T22:17:52.761Z",
-    "hwid": null,
+    "hwid": "38993FB586F180E47D814BA6C6E57D48",
     "id": "ROBRUN-1246166295",
     "password": "bratuxq",
     "paused": false,
-    "used": false,
+    "used": true,
     "user": "bratuxq",
     "username": "bratuxq"
   },
