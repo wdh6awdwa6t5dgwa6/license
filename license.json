@@ -181,6 +181,19 @@
     "user": "VadeanuStefan",
     "username": "VadeanuStefan"
   },
+  "ROBRUN-3949505490": {
+    "blacklist": false,
+    "createdAt": "2026-11-28T15:18:47.564Z",
+    "creator": "82345324",
+    "expiresAt": "2026-12-29T15:18:47.564Z",
+    "hwid": null,
+    "id": "ROBRUN-3949505490",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-4159934720": {
     "blacklist": false,
     "createdAt": "2026-11-21T00:25:45.260Z",
