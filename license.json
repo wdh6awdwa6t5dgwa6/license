@@ -220,6 +220,19 @@
     "user": "Cosmin1337",
     "username": ""
   },
+  "ROBRUN-6505675297": {
+    "blacklist": false,
+    "createdAt": "2026-11-28T00:07:41.738Z",
+    "creator": "robica_sefu",
+    "expiresAt": "2026-11-29T00:07:41.738Z",
+    "hwid": null,
+    "id": "ROBRUN-6505675297",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "ROBRUN-6825844188": {
     "blacklist": false,
     "createdAt": "2026-11-27T22:48:53.654Z",
